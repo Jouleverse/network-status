@@ -1,2 +1,3 @@
 disconnected. trying to add peer: 43.*.*.3 miner OPEN
 disconnected. trying to add peer: 82.*.*.241 witness Victor
+disconnected. trying to add peer: 36.*.*.81 witness Ted
