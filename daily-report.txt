@@ -3,72 +3,72 @@ failed to add peer: 118.*.*.251 witness jay.j {'code': -32000, 'message': 'inval
 disconnected. trying to add peer: 101.*.*.22 witness 彩彩
 Jouleverese Network Audit Report
 ===============================================
-Report Time: 2025-09-30 23:58:19 +0800
+Report Time: 2025-10-01 23:58:18 +0800
 ------------- blockchain status ---------------
 Blockchain Status: 🟢
-Latest Block Height: 6282585
-Latest Block Time: 2025-09-30 23:57:55+08:00
+Latest Block Height: 6288345
+Latest Block Time: 2025-10-01 23:57:55+08:00
 Network Size:  56  nodes ( 16  miners,  40  witnesses, miner*s excluded)
 ---------------- nodes status -----------------
 TYPE SINCE IP OWNER CHECK-IN CORE-ID CONNECTED STATUS ACTIVITY LIVENESS
 -----------------------------------------------
-miner 20231015 119.*.*.168 Koant ✅ 0 🟩 connected 0.0625 🟢
-miner 20240119 82.*.*.101 谢勇 ✅ 18 🟩 connected 0.0625 🟢
-miner 20230529 47.*.*.119 Jacky ✅ 9 🟩 connected 0.0625 🟢
-miner 20230524 82.*.*.13 教链 ✅ 25 🟩 connected 0.0625 🟢
+miner 20231015 119.*.*.168 Koant ❌ 0 🟩 connected 0.0625 🟢
+miner 20240119 82.*.*.101 谢勇 ❌ 18 🟩 connected 0.0625 🟢
+miner 20230529 47.*.*.119 Jacky ❌ 9 🟩 connected 0.0625 🟢
+miner 20230524 82.*.*.13 教链 ❌ 25 🟩 connected 0.0625 🟢
 miner 20231027 62.*.*.37 Menger ❌ 5 🟩 connected 0.0625 🟢
-miner 20240109 106.*.*.230 严光红 ✅ 26 🟩 connected 0.0625 🟢
-miner 20240107 47.*.*.124 li17 ✅ 6 🟩 connected 0.0625 🟢
+miner 20240109 106.*.*.230 严光红 ❌ 26 🟩 connected 0.0625 🟢
+miner 20240107 47.*.*.124 li17 ❌ 6 🟩 connected 0.0625 🟢
 miner 20240113 47.*.*.41 Jeff ✅ 29 🟩 connected 0.0625 🟢
-miner 20240219 122.*.*.192 火星 ✅ 17 🟩 connected 0.0625 🟢
+miner 20240219 122.*.*.192 火星 ❌ 17 🟩 connected 0.0625 🟢
 miner 20240118 129.*.*.149 明海云 ✅ 7 🟩 connected 0.0625 🟢
 miner 20241103 110.*.*.38 kylin ✅ 31 🟩 connected 0.0625 🟢
 miner 20241113 106.*.*.222 剪云为裳 ✅ 37 🟩 connected 0.0625 🟢
 miner 20241115 47.*.*.72 微尘 ✅ 53 🟩 connected 0.0625 🟢
-miner 20241117 110.*.*.135 煜歌 ✅ 33 🟩 connected 0.0625 🟢
+miner 20241117 110.*.*.135 煜歌 ❌ 33 🟩 connected 0.0625 🟢
 miner 20250311 139.*.*.177 cijin ✅ 34 🟩 connected 0.0625 🟢
 miner 20250319 110.*.*.146 楼兰渔夫 ✅ 4 🟩 connected 0.0625 🟢
-witness(a) 20240115 43.*.*.164 Jeff ✅ 29 🟩 connected 6282585 🟢
-witness 20230529 101.*.*.192 JNSDAO ✅ 25 🟩 connected 6282585 🟢
-witness 20231014 1.*.*.74 严光红 ✅ 26 🟩 connected 6282585 🟢
-witness 20240220 111.*.*.83 Koant ✅ 0 🟩 connected 6282585 🟢
-witness 20240119 120.*.*.88 谢勇 ✅ 18 🟩 connected 6282585 🟢
-witness 20230524 118.*.*.135 火星 ✅ 17 🟩 connected 6282585 🟢
-witness 20231025 115.*.*.193 Angel ✅ 19 🟩 connected 6282585 🟢
-witness 20240110 1.*.*.165 老谢 ❌ 28 🟩 connected 6282585 🟢
-witness 20240111 43.*.*.74 明海云 ✅ 7 🟩 connected 6282585 🟢
-witness 20240112 123.*.*.17 狮子猫 ✅ 27 🟩 connected 6282585 🟢
-witness 20240110 47.*.*.73 元码 ✅ 25 🟩 connected 6282585 🟢
-witness 20240114 106.*.*.89 cijin ✅ 34 🟩 connected 6282585 🟢
-witness 20240120 43.*.*.11 kylin ✅ 31 🟩 connected 6282585 🟢
-witness 20240120 111.*.*.60 li17.eth ✅ 6 🟩 connected 6282585 🟢
-witness 20240217 150.*.*.56 得葱 ✅ 36 🟩 connected 6282585 🟢
-witness 20240303 1.*.*.34 剪云为裳 ✅ 37 🟩 connected 6282585 🟢
-witness 20240307 42.*.*.155 花开的声音 ✅ 39 🟩 connected 6282585 🟢
-witness 20240313 115.*.*.129 杨敦鹏 ✅ 45 🟩 connected 6282585 🟢
-witness 20240313 175.*.*.36 米高 ✅ 42 🟩 connected 6282585 🟢
-witness 20240313 36.*.*.81 Ted ✅ 43 🟩 connected 6282585 🟢
-witness 20240319 49.*.*.212 团子 ✅ 44 🟩 connected 6282585 🟢
-witness 20240319 129.*.*.162 xiangwang ❌ 46 🟩 connected 6282585 🟢
-witness 20240319 124.*.*.62 邱泳渼 ✅ 47 🟩 connected 6282585 🟢
-witness 20240402 122.*.*.8 星语欣愿 ✅ 49 🟩 connected 6282585 🟢
-witness 20240429 139.*.*.205 ucanfilm (机构)  ✅ 14 🟩 connected 6282585 🟢
-witness 20240509 101.*.*.92 相瑾 ❌ 51 🟩 connected 6282585 🟢
-witness 20240719 81.*.*.66 微尘 ✅ 53 🟩 connected 6282585 🟢
-witness 20240807 118.*.*.223 张恩畅 ✅ 15 🟩 connected 6282585 🟢
-witness 20240825 1.*.*.1 蓝叶子-node ✅ 60 🟩 connected 6282585 🟢
-witness 20240831 117.*.*.245 sing2011 ✅ 58 🟩 connected 6282585 🟢
-witness 20240908 117.*.*.237 TIGER ✅ 57 🟩 connected 6282585 🟢
-witness 20240908 117.*.*.230 潇先生 ✅ 59 🟩 connected 6282585 🟢
-witness 20240927 139.*.*.54 Simon ✅ 54 🟩 connected 6282586 🟢
-witness 20241118 110.*.*.253 富轩 ✅ 62 🟩 connected 6282586 🟢
-witness 20241121 119.*.*.155 佘小强 ❌ 56 🟩 connected 6282586 🟢
-witness 20241124 124.*.*.129 尧垚 ✅ 63 🟩 connected 6282586 🟢
-witness 20250107 124.*.*.91 蓝色经典 ✅ 55 🟩 connected 6282586 🟢
-witness 20250316 42.*.*.237 煜歌 ✅ 33 🟩 connected 6282586 🟢
-witness 20250403 49.*.*.105 元神道（机构） ✅ 64 🟩 connected 6282586 🟢
-witness 20250820 119.*.*.90 gwendol ✅ 24 🟩 connected 6282586 🟢
-witness 20240419 118.*.*.251 jay.j ✅ 50 🟥 disconnected -1 🔴
-witness 20240925 101.*.*.22 彩彩 ✅ 61 🟥 disconnected -1 🔴
+witness(a) 20240115 43.*.*.164 Jeff ✅ 29 🟩 connected 6288345 🟢
+witness 20230529 101.*.*.192 JNSDAO ❌ 25 🟩 connected 6288345 🟢
+witness 20231014 1.*.*.74 严光红 ❌ 26 🟩 connected 6288345 🟢
+witness 20240220 111.*.*.83 Koant ❌ 0 🟩 connected 6288345 🟢
+witness 20240119 120.*.*.88 谢勇 ❌ 18 🟩 connected 6288345 🟢
+witness 20230524 118.*.*.135 火星 ❌ 17 🟩 connected 6288345 🟢
+witness 20231025 115.*.*.193 Angel ❌ 19 🟩 connected 6288345 🟢
+witness 20240110 1.*.*.165 老谢 ❌ 28 🟩 connected 6288345 🟢
+witness 20240111 43.*.*.74 明海云 ✅ 7 🟩 connected 6288345 🟢
+witness 20240112 123.*.*.17 狮子猫 ✅ 27 🟩 connected 6288345 🟢
+witness 20240110 47.*.*.73 元码 ❌ 25 🟩 connected 6288345 🟢
+witness 20240114 106.*.*.89 cijin ✅ 34 🟩 connected 6288345 🟢
+witness 20240120 43.*.*.11 kylin ✅ 31 🟩 connected 6288345 🟢
+witness 20240120 111.*.*.60 li17.eth ❌ 6 🟩 connected 6288345 🟢
+witness 20240217 150.*.*.56 得葱 ❌ 36 🟩 connected 6288345 🟢
+witness 20240303 1.*.*.34 剪云为裳 ✅ 37 🟩 connected 6288345 🟢
+witness 20240307 42.*.*.155 花开的声音 ✅ 39 🟩 connected 6288345 🟢
+witness 20240313 115.*.*.129 杨敦鹏 ✅ 45 🟩 connected 6288345 🟢
+witness 20240313 175.*.*.36 米高 ❌ 42 🟩 connected 6288345 🟢
+witness 20240313 36.*.*.81 Ted ❌ 43 🟩 connected 6288344 🟢
+witness 20240319 49.*.*.212 团子 ❌ 44 🟩 connected 6288345 🟢
+witness 20240319 129.*.*.162 xiangwang ❌ 46 🟩 connected 6288345 🟢
+witness 20240319 124.*.*.62 邱泳渼 ✅ 47 🟩 connected 6288345 🟢
+witness 20240402 122.*.*.8 星语欣愿 ✅ 49 🟩 connected 6288345 🟢
+witness 20240429 139.*.*.205 ucanfilm (机构)  ❌ 14 🟩 connected 6288345 🟢
+witness 20240509 101.*.*.92 相瑾 ❌ 51 🟩 connected 6288345 🟢
+witness 20240719 81.*.*.66 微尘 ✅ 53 🟩 connected 6288345 🟢
+witness 20240807 118.*.*.223 张恩畅 ❌ 15 🟩 connected 6288345 🟢
+witness 20240825 1.*.*.1 蓝叶子-node ❌ 60 🟩 connected 6288345 🟢
+witness 20240831 117.*.*.245 sing2011 ❌ 58 🟩 connected 6288345 🟢
+witness 20240908 117.*.*.237 TIGER ❌ 57 🟩 connected 6288345 🟢
+witness 20240908 117.*.*.230 潇先生 ✅ 59 🟩 connected 6288345 🟢
+witness 20240927 139.*.*.54 Simon ❌ 54 🟩 connected 6288346 🟢
+witness 20241118 110.*.*.253 富轩 ❌ 62 🟩 connected 6288346 🟢
+witness 20241121 119.*.*.155 佘小强 ❌ 56 🟩 connected 6288346 🟢
+witness 20241124 124.*.*.129 尧垚 ❌ 63 🟩 connected 6288346 🟢
+witness 20250107 124.*.*.91 蓝色经典 ❌ 55 🟩 connected 6288346 🟢
+witness 20250316 42.*.*.237 煜歌 ❌ 33 🟩 connected 6288346 🟢
+witness 20250403 49.*.*.105 元神道（机构） ❌ 64 🟩 connected 6288346 🟢
+witness 20250820 119.*.*.90 gwendol ❌ 24 🟩 connected 6288346 🟢
+witness 20240419 118.*.*.251 jay.j ❌ 50 🟥 disconnected -1 🔴
+witness 20240925 101.*.*.22 彩彩 ❌ 61 🟥 disconnected -1 🔴
 ---------------- notice -----------------
-❌ NO CHECK-IN: Menger,老谢,xiangwang,相瑾,佘小强
+❌ NO CHECK-IN: Koant,谢勇,Jacky,教链,Menger,严光红,li17,火星,煜歌,JNSDAO,Angel,老谢,元码,li17.eth,得葱,米高,Ted,团子,xiangwang,ucanfilm (机构) ,相瑾,张恩畅,蓝叶子-node,sing2011,TIGER,Simon,富轩,佘小强,尧垚,蓝色经典,元神道（机构）,gwendol,jay.j,彩彩
