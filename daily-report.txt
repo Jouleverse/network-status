@@ -1,20 +1,19 @@
-disconnected. trying to add peer: 39.*.*.26 witness kylin
 disconnected. trying to add peer: 1.*.*.34 witness 剪云为裳
 disconnected. trying to add peer: 124.*.*.129 witness 尧垚
 disconnected. trying to add peer: 49.*.*.105 witness 元神道（机构）
 Jouleverese Network Audit Report
 ===============================================
-Report Time: 2026-03-05 23:58:36 +0800
+Report Time: 2026-03-06 23:58:25 +0800
 ------------- blockchain status ---------------
 Blockchain Status: 🟢
-Latest Block Height: 7181145
-Latest Block Time: 2026-03-05 23:57:55+08:00
-Network Size:  49  nodes ( 16  miners,  33  witnesses, miner*s excluded)
+Latest Block Height: 7186905
+Latest Block Time: 2026-03-06 23:57:55+08:00
+Network Size:  50  nodes ( 16  miners,  34  witnesses, miner*s excluded)
 ---------------- nodes status -----------------
 TYPE SINCE IP CONNECTED STATUS ACTIVITY LIVENESS CORE-ID OWNER CHECK-IN
 -----------------------------------------------
 miner 20231015 119.*.*.168 🟢 connected 0.0625 🟩 J-0 "Koant" ❌
-miner 20240119 82.*.*.101 🟢 connected 0.078125 🟩 J-18 "谢勇" ❌
+miner 20240119 82.*.*.101 🟢 connected 0.0625 🟩 J-18 "谢勇" ❌
 miner 20230529 47.*.*.119 🟢 connected 0.0625 🟩 J-9 "Jacky" ❌
 miner 20230524 82.*.*.13 🟢 connected 0.0625 🟩 J-25 "教链" ❌
 miner 20231027 62.*.*.37 🟢 connected 0.0625 🟩 J-5 "Menger" ❌
@@ -26,43 +25,43 @@ miner 20240118 129.*.*.149 🟢 connected 0.0625 🟩 J-7 "明海云" ✅
 miner 20241103 110.*.*.38 🟢 connected 0.0625 🟩 J-31 "kylin" ❌
 miner 20241113 106.*.*.222 🟢 connected 0.0625 🟩 J-37 "剪云为裳" ❌
 miner 20241115 47.*.*.72 🟢 connected 0.0625 🟩 J-53 "微尘" ✅
-miner 20241117 110.*.*.135 🟢 connected 0.046875 🟩 J-33 "煜歌" ❌
+miner 20241117 110.*.*.135 🟢 connected 0.0625 🟩 J-33 "煜歌" ❌
 miner 20250311 43.*.*.133 🟢 connected 0.0625 🟩 J-34 "cijin" ❌
 miner 20250319 110.*.*.146 🟢 connected 0.0625 🟩 J-4 "楼兰渔夫" ❌
-witness(a) 20240115 43.*.*.164 🟢 connected 7181145 🟩 J-29 "Jeff" ❌
-witness 20230529 101.*.*.192 🟢 connected 7181145 🟩 J-25 "JNSDAO" ❌
-witness 20231014 1.*.*.74 🟢 connected 7181145 🟩 J-26 "严光红" ✅
-witness 20240220 111.*.*.83 🟢 connected 7181145 🟩 J-0 "Koant" ❌
-witness 20240119 120.*.*.88 🟢 connected 7181145 🟩 J-18 "谢勇" ❌
-witness 20230524 118.*.*.135 🟢 connected 7181145 🟩 J-17 "火星" ✅
-witness 20240111 43.*.*.74 🟢 connected 7181145 🟩 J-7 "明海云" ✅
-witness 20240112 123.*.*.17 🟢 connected 7181145 🟩 J-27 "狮子猫" ❌
-witness 20240114 106.*.*.89 🟢 connected 7181145 🟩 J-34 "cijin" ❌
-witness 20240120 111.*.*.60 🟢 connected 7181146 🟩 J-6 "li17.eth" ❌
-witness 20240307 42.*.*.155 🟢 connected 7181146 🟩 J-39 "花开的声音" ❌
-witness 20240313 115.*.*.129 🟢 connected 7181146 🟩 J-45 "杨敦鹏" ❌
-witness 20240313 175.*.*.36 🟢 connected 7181146 🟩 J-42 "米高" ✅
-witness 20240313 36.*.*.81 🟢 connected 7181146 🟩 J-43 "Ted" ✅
-witness 20240319 49.*.*.212 🟢 connected 7181146 🟩 J-44 "团子" ❌
-witness 20240319 129.*.*.162 🟢 connected 7181146 🟩 J-46 "xiangwang" ❌
-witness 20240319 124.*.*.62 🟢 connected 7181146 🟩 J-47 "邱泳渼" ❌
-witness 20240402 122.*.*.8 🟢 connected 7181146 🟩 J-49 "星语欣愿" ❌
-witness 20240429 139.*.*.205 🟢 connected 7181146 🟩 J-14 "ucanfilm (机构) " ❌
-witness 20240509 101.*.*.92 🟢 connected 7181146 🟩 J-51 "相瑾" ❌
-witness 20240719 81.*.*.66 🟢 connected 7181146 🟩 J-53 "微尘" ✅
-witness 20240825 1.*.*.1 🟢 connected 7181146 🟩 J-60 "蓝叶子-node" ✅
-witness 20240831 117.*.*.245 🟢 connected 7181146 🟩 J-58 "sing2011" ✅
-witness 20240908 117.*.*.237 🟢 connected 7181146 🟩 J-57 "TIGER" ✅
-witness 20240908 117.*.*.230 🟢 connected 7181146 🟩 J-59 "潇先生" ✅
-witness 20240925 81.*.*.150 🟢 connected 7181146 🟩 J-61 "彩彩" ✅
-witness 20240927 139.*.*.54 🟢 connected 7181146 🟩 J-54 "Simon" ✅
-witness 20250316 42.*.*.237 🟢 connected 7181147 🟩 J-33 "煜歌" ❌
-witness 20250403 49.*.*.105 🟡 disconnected 7181147 🟩 J-66 "元神道（机构）" ✅
-witness 20250820 119.*.*.90 🟢 connected 7181147 🟩 J-24 "gwendol" ❌
-witness 20240623 117.*.*.123 🟢 connected 7181147 🟩 J-52 "盛美" ✅
-witness 20251201 43.*.*.245 🟢 connected 7181147 🟩 J-4 "楼兰渔夫" ❌
-witness 20251201 118.*.*.8 🟢 connected 7181147 🟩 J-65 "王伟龙" ✅
-witness 20240120 39.*.*.26 🟡 disconnected -1 🟥 J-31 "kylin" ❌
+witness(a) 20240115 43.*.*.164 🟢 connected 7186905 🟩 J-29 "Jeff" ❌
+witness 20230529 101.*.*.192 🟢 connected 7186905 🟩 J-25 "JNSDAO" ❌
+witness 20231014 1.*.*.74 🟢 connected 7186905 🟩 J-26 "严光红" ✅
+witness 20240220 111.*.*.83 🟢 connected 7186905 🟩 J-0 "Koant" ❌
+witness 20240119 120.*.*.88 🟢 connected 7186905 🟩 J-18 "谢勇" ❌
+witness 20230524 118.*.*.135 🟢 connected 7186905 🟩 J-17 "火星" ✅
+witness 20240111 43.*.*.74 🟢 connected 7186905 🟩 J-7 "明海云" ✅
+witness 20240112 123.*.*.17 🟢 connected 7186905 🟩 J-27 "狮子猫" ❌
+witness 20240114 106.*.*.89 🟢 connected 7186905 🟩 J-34 "cijin" ❌
+witness 20240120 39.*.*.26 🟢 connected 7186905 🟩 J-31 "kylin" ❌
+witness 20240120 111.*.*.60 🟢 connected 7186905 🟩 J-6 "li17.eth" ❌
+witness 20240307 42.*.*.155 🟢 connected 7186906 🟩 J-39 "花开的声音" ❌
+witness 20240313 115.*.*.129 🟢 connected 7186906 🟩 J-45 "杨敦鹏" ❌
+witness 20240313 175.*.*.36 🟢 connected 7186906 🟩 J-42 "米高" ✅
+witness 20240313 36.*.*.81 🟢 connected 7186905 🟩 J-43 "Ted" ✅
+witness 20240319 49.*.*.212 🟢 connected 7186906 🟩 J-44 "团子" ❌
+witness 20240319 129.*.*.162 🟢 connected 7186906 🟩 J-46 "xiangwang" ❌
+witness 20240319 124.*.*.62 🟢 connected 7186906 🟩 J-47 "邱泳渼" ❌
+witness 20240402 122.*.*.8 🟢 connected 7186906 🟩 J-49 "星语欣愿" ❌
+witness 20240429 139.*.*.205 🟢 connected 7186906 🟩 J-14 "ucanfilm (机构) " ❌
+witness 20240509 101.*.*.92 🟢 connected 7186906 🟩 J-51 "相瑾" ❌
+witness 20240719 81.*.*.66 🟢 connected 7186906 🟩 J-53 "微尘" ✅
+witness 20240825 1.*.*.1 🟢 connected 7186906 🟩 J-60 "蓝叶子-node" ✅
+witness 20240831 117.*.*.245 🟢 connected 7186906 🟩 J-58 "sing2011" ✅
+witness 20240908 117.*.*.237 🟢 connected 7186906 🟩 J-57 "TIGER" ✅
+witness 20240908 117.*.*.230 🟢 connected 7186906 🟩 J-59 "潇先生" ✅
+witness 20240925 81.*.*.150 🟢 connected 7186906 🟩 J-61 "彩彩" ✅
+witness 20240927 139.*.*.54 🟢 connected 7186906 🟩 J-54 "Simon" ✅
+witness 20250316 42.*.*.237 🟢 connected 7186907 🟩 J-33 "煜歌" ❌
+witness 20250403 49.*.*.105 🟡 disconnected 7186907 🟩 J-66 "元神道（机构）" ✅
+witness 20250820 119.*.*.90 🟢 connected 7186907 🟩 J-24 "gwendol" ❌
+witness 20240623 117.*.*.123 🟢 connected 7186907 🟩 J-52 "盛美" ✅
+witness 20251201 43.*.*.245 🟢 connected 7186907 🟩 J-4 "楼兰渔夫" ❌
+witness 20251201 118.*.*.8 🟢 connected 7186907 🟩 J-65 "王伟龙" ✅
 witness 20240303 1.*.*.34 🟡 disconnected -1 🟥 J-37 "剪云为裳" ❌
 witness 20241124 124.*.*.129 🟡 disconnected -1 🟥 J-63 "尧垚" ❌
 ---------------- notice -----------------
